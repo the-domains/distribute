@@ -1,4 +1,4 @@
-name: null
+name: Distribute
 favicon: null
 layout_spectrum: 0.12524191103875637
 typography_spectrum: 0.7880047676153481
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#070707'
+    - '#fbf2e9'
+    - '#2e2623'
+    - '#a29284'
+    - '#75675d'
   brandStrength: 0.4698303828481585
   lightness: 0.9561708562541753
   saturation: 0.41393253579735756
