@@ -1,7 +1,7 @@
 name: Distribute
 favicon: null
-layout_spectrum: 0.12524191103875637
-typography_spectrum: 0.7880047676153481
+layout_spectrum: 0.30321
+typography_spectrum: 0.31342
 cta:
   domain: null
   bucket: null
